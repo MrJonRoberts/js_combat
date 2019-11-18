@@ -1,0 +1,9 @@
+/* CSS Document */
+body {
+	background: rgba(180,180,180,1.00);
+}
+.gameCSS {
+	width: 100%;
+	height: 200px;
+	background: red;
+}
