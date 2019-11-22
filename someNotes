@@ -1,0 +1,36 @@
+
+Javascript
+
+const attackBtn = document.getElementById("attack");
+
+const specialBtn = document.getElementById("special");
+
+const healzBtn = document.getElementById("healz");
+
+const restartBtn = document.getElementById("restart");
+
+
+attackBtn.addEventListener("click", attack);
+
+specialBtn.addEventListener("click", sepcialAttack);
+
+healzBtn.addEventListener("click", healMe);
+
+restartBtn.addEventListener("click", restart);
+
+function healMe(){}
+
+function attack(){}
+
+function sepcialAttack(){}
+
+function restart()
+
+
+
+HTML
+
+<button id="attack">ATTACK</button>
+	<button id="special">Special Attack</button>
+	<button id="healz">Heal</button>
+	<button id='restart'>RESTART</button>
