@@ -24,7 +24,7 @@ function attack(){}
 
 function sepcialAttack(){}
 
-function restart()
+function restart(){}
 
 
 
